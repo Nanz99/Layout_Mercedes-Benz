@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    // font-family: 'Open Sans', sans-serif;
+    font-family: 'Muli', sans-serif;
+    font-size: $fs-0;
+    background-color: $color-black-0;
+    line-height: $line-height-0;
+    color: $color-white-0;
+}
+p{
+    margin: 0;
+}
+ul{
+    list-style: none;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+button:focus{
+    outline: none;
+}
+
+      
